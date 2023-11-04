@@ -4,6 +4,9 @@ This repository contains a Grafana dashboard for **[rtl_433_prometheus](https://
 
 ![Screenshot for Grafana dashboard](https://github.com/tomz00/grafana-rtl_433-exporter/blob/main/dashboard.png)
 
+## Setup exporter for rtl_433
+TODO
+
 ## Software setup
 
 This repository contains 2 JSON files, one is with **[Slovak locales](https://github.com/tomz00/grafana-rtl_433-exporter/blob/main/dashboard-SK.json)** and other in **[English](https://github.com/tomz00/grafana-rtl_433-exporter/blob/main/dashboard.json)**.  On your Grafana instance, simply click on **Dashboard section** -> **New** -> **Import** and upload the JSON file you have downloaded from this repo.
